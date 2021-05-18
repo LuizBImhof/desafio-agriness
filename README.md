@@ -1,5 +1,7 @@
-# desafio-agriness
+# API REST em Python
 Desafio proposto pela Agrinessa para a vaga de desenvolvedor back-end Python
+
+Consiste em uma API para uma biblioteca, onde é possível adicionar e remover livros e usuários, realizar a reserva de livros e verificar os livros emprestados por usuário
 
 
 ## Como executar
